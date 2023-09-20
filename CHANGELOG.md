@@ -1,5 +1,18 @@
 # Changelog
 
+## 0.0.79 (2023-09-20)
+
+## What's Changed
+* fix(gpt-3.5-instruct): bug and new version of node by @StanGirard in https://github.com/StanGirard/quivr/pull/1228
+* feat: display brain status on settings page by @mamadoudicko in https://github.com/StanGirard/quivr/pull/1221
+* feat(upload): changed icons by @StanGirard in https://github.com/StanGirard/quivr/pull/1233
+* Feat/paperclip by @StanGirard in https://github.com/StanGirard/quivr/pull/1234
+* fix(brain_size): increased size by @StanGirard in https://github.com/StanGirard/quivr/pull/1235
+* feat(strapi): added first draft by @StanGirard in https://github.com/StanGirard/quivr/pull/1237
+
+
+**Full Changelog**: https://github.com/StanGirard/quivr/compare/v0.0.78...v0.0.79
+
 ## 0.0.78 (2023-09-20)
 
 ## What's Changed
